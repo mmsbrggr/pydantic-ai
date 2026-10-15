@@ -123,11 +123,6 @@ DocumentMediaType: TypeAlias = Literal[
     'text/markdown',
     'application/msword',
     'application/vnd.ms-excel',
-    'application/vnd.openxmlformats-officedocument.presentationml.presentation',
-    'application/vnd.ms-powerpoint',
-    'application/rtf',
-    'text/rtf',
-    'application/vnd.oasis.opendocument.text',
 ]
 VideoMediaType: TypeAlias = Literal[
     'video/x-matroska',
